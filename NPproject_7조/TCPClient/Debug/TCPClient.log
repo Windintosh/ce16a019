@@ -1,0 +1,6 @@
+﻿  TCPClient.cpp
+C:\Users\Steelval\Documents\KPU Docs\3학년\네트워크프로그래밍\NPproject_7조\TCPClient\TCPClient.cpp(109,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Steelval\Documents\KPU Docs\3학년\네트워크프로그래밍\NPproject_7조\TCPClient\TCPClient.cpp(140,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Steelval\Documents\KPU Docs\3학년\네트워크프로그래밍\NPproject_7조\TCPClient\TCPClient.cpp(163,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Steelval\Documents\KPU Docs\3학년\네트워크프로그래밍\NPproject_7조\TCPClient\TCPClient.cpp(182,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TCPClient.vcxproj -> C:\Users\Steelval\Documents\KPU Docs\3학년\네트워크프로그래밍\NPproject_7조\TCPClient\Debug\TCPClient.exe
